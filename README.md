@@ -262,11 +262,6 @@ A public-facing real estate platform designed for property discovery and lead ge
 
 ## ⚡ Developer Activity
 
-
----
-
-## ⚡ Developer Activity
-
 <p align="center">
   <a href="https://github.com/Krrshivam">
     <img
