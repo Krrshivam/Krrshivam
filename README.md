@@ -5,15 +5,14 @@
 <h3 align="center">Full Stack Developer | Software Engineer | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;AI+%7C+RAG+%7C+Backend+Architecture;Building+Real+World+Software+Solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;AI+%7C+RAG+%7C+Backend+Architecture;Building+Real+World+Software+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://shivam-kumar08.vercel.app/">Portfolio</a> •
+  <a href="https://shivam-kumar08.vercel.app/">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/shivam-kumar-6286982b3">LinkedIn</a> •
-  <a href="mailto:shivamkumar07514@gmail.com">Email</a>
+  <a href="mailto:shivamkumar07514@gmail.com">Email</a> •
+  <a href="https://github.com/Krrshivam">GitHub</a>
 </p>
 
 ---
@@ -22,14 +21,14 @@
 
 - 🎓 B.Tech Computer Science & Engineering student at **Amity University, Noida**.
 - 💻 Full Stack Developer passionate about building scalable and production-ready applications.
-- 🔭 Currently working on **Properties Professor – Real Estate CRM Platform**.
+- 🔭 Working on **Properties Professor – Real Estate CRM Platform**.
 - 🤖 Developed **InspectX – AI-powered Inspection Management System**.
 - 🏆 **1st Prize Winner – PSB Hackathon Series 2026**.
 - 🌟 **Smart India Hackathon 2025 – Grand Finale Hardware Edition Finalist**.
 - 🌍 Selected to represent our PSB-winning innovation at **Global Fintech Fest 2026, Mumbai**.
-- 🌱 Exploring AI integration, RAG architecture, system design, and scalable backend development.
-- 💬 Ask me about React, Next.js, Node.js, MongoDB, PostgreSQL, and AI integration.
-- 📫 Reach me at **[shivamkumar07514@gmail.com](mailto:shivamkumar07514@gmail.com)**.
+- 🧠 Exploring AI Agents, RAG Architecture, Vector Databases and System Design.
+- 💬 Ask me about React, Next.js, Node.js, MongoDB, PostgreSQL and AI Integration.
+- 📫 Email: **[shivamkumar07514@gmail.com](mailto:shivamkumar07514@gmail.com)**.
 
 ---
 
@@ -46,28 +45,28 @@
 
 ### 🚀 Featured Projects
 
-#### 1. InspectX – AI-Powered Inspection Management System
+#### 🔹 InspectX – AI-Powered Inspection Management System
 
 An intelligent inspection management platform designed for industrial inspection workflows.
 
-- Role-based dashboards for Admin, Client, and Inspector.
+- Role-based dashboards for Admin, Client and Inspector.
 - Dynamic form builder and inspection tracking.
-- AI-powered conversational assistant.
+- AI-powered conversational assistant with context awareness.
 - RAG-based knowledge retrieval using vector embeddings.
-- AI tools for inspection search, reports, findings, and machine history.
+- AI tools for inspection search, reports, findings and machine history.
 - Safe AI-powered form modification proposals.
-- Authentication and database integration.
+- Knowledge base management and semantic search.
 
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, pgvector, Gemini AI.
 
-#### 2. Properties Professor – Real Estate CRM
+#### 🔹 Properties Professor – Real Estate CRM
 
 A production-oriented CRM platform designed to streamline real estate business operations.
 
 - Lead management and tracking system.
 - Property inventory management.
 - Employee attendance and task management.
-- Role-based access control.
+- Role-based access control and authentication.
 - Real-time dashboard and business analytics.
 - Team communication and workflow management.
 - Media storage and backend API integration.
@@ -76,13 +75,11 @@ A production-oriented CRM platform designed to streamline real estate business o
 
 🌐 **Live Platform:** [propertiesprofessor.com](https://propertiesprofessor.com)
 
-#### 3. Properties Professor – Real Estate Website
+#### 🔹 Properties Professor – Real Estate Website
 
-A public-facing real estate platform for property discovery and lead generation.
-
-- Property listing and discovery.
-- Search and filtering functionality.
-- Responsive user interface.
+- Public-facing property listing platform.
+- Property search and filtering.
+- Responsive UI for buyers and brokers.
 - Property enquiry and lead generation.
 - Integration with CRM workflows.
 
@@ -114,9 +111,11 @@ A public-facing real estate platform for property discovery and lead generation.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 
 **AI & Development Tools**
 
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -141,10 +140,12 @@ A public-facing real estate platform for property discovery and lead generation.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krrshivam&theme=tokyonight" height="170" alt="Most Used Languages" />
 </p>
 
+---
+
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Krrshivam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Krrshivam&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -154,9 +155,10 @@ A public-facing real estate platform for property discovery and lead generation.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krrshivam&theme=tokyonight" width="100%" alt="GitHub Contribution Activity" />
 </p>
+
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Krrshivam&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
@@ -164,15 +166,19 @@ A public-facing real estate platform for property discovery and lead generation.
 
 ---
 
-## 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krrshivam/cybershivaa/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krrshivam/cybershivaa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krrshivam/cybershivaa/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Krrshivam/cybershivaa/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+  </picture>
 </p>
 
 ---
 
-## ⚡ Developer Activity
+### ⚡ Developer Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krrshivam&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Developer Activity Graph" />
@@ -180,11 +186,6 @@ A public-facing real estate platform for property discovery and lead generation.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer&animation=fadeIn" width="100%" />
-</p>
-
-<h3 align="center">🚀 Code • Create • Innovate • Repeat</h3>
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -205,11 +206,15 @@ A public-facing real estate platform for property discovery and lead generation.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cybershivaa&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Krrshivam&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="center">💡 Building Ideas Into Real-World Solutions.</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer&animation=fadeIn" width="100%" />
+</p>
+
+<h3 align="center">🚀 Code • Create • Innovate • Repeat</h3>
 
 <p align="center">
-  ⭐ From <a href="https://github.com/cybershivaa">Shivam Kumar</a>
+  ⭐ From <a href="https://github.com/Krrshivam">Shivam Kumar</a>
 </p>
