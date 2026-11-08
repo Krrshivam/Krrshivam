@@ -3,15 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;AI+%7C+RAG+%7C+Backend+Architecture;Building+Real+World+Software+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://shivam-kumar08.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/shivam-kumar-6286982b3">LinkedIn</a> •
-  <a href="mailto:shivamkumar07514@gmail.com">Email</a> •
-  <a href="https://github.com/Krrshivam">GitHub</a>
-</p>
-
----
-
 ### 🚀 About Me
 
 - 🎓 B.Tech Computer Science & Engineering student at **Amity University, Noida**.
