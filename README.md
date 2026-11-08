@@ -1,9 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8E2DE2,100:4A00E0&text=Shivam%20Kumar&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20&animation=fadeIn)
-
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-
-<h3 align="center">Full Stack Developer | Software Engineer | Problem Solver</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;AI+%7C+RAG+%7C+Backend+Architecture;Building+Real+World+Software+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
