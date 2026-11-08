@@ -137,11 +137,9 @@ A public-facing real estate platform for property discovery and lead generation.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Krrshivam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrshivam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krrshivam&theme=tokyonight" height="170" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krrshivam&theme=tokyonight" height="170" alt="Most Used Languages" />
 </p>
-
----
 
 ### 🔥 GitHub Contribution Streak
 
@@ -154,10 +152,8 @@ A public-facing real estate platform for property discovery and lead generation.
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krrshivam&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krrshivam&theme=tokyonight" width="100%" alt="GitHub Contribution Activity" />
 </p>
-
----
 
 ### 🌐 Connect With Me
 
