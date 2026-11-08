@@ -158,10 +158,19 @@ A production-oriented CRM platform designed to streamline real estate business o
 
 ---
 
-### 🏆 GitHub Trophies
+---
+
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krrshivam&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/PSB_Hackathon-🥇_1st_Prize-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIH_2025-Grand_Finalist-8E2DE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GFF_2026-Selected_Delegate-00A86B?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Active_Developer-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Full_Stack-Engineer-3178C6?style=for-the-badge&logo=react" />
 </p>
 
 ---
@@ -169,11 +178,7 @@ A production-oriented CRM platform designed to streamline real estate business o
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krrshivam/cybershivaa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krrshivam/cybershivaa/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Krrshivam/cybershivaa/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Krrshivam/cybershivaa/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </p>
 
 ---
@@ -181,8 +186,15 @@ A production-oriented CRM platform designed to streamline real estate business o
 ### ⚡ Developer Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krrshivam&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Developer Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krrshivam&theme=tokyonight" width="100%" alt="GitHub Contribution Activity" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krrshivam&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krrshivam&theme=tokyonight" width="49%" alt="Repository Languages" />
+</p>
+
+---
 
 ---
 
