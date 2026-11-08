@@ -262,11 +262,36 @@ A public-facing real estate platform designed for property discovery and lead ge
 
 ## ⚡ Developer Activity
 
+
+---
+
+## ⚡ Developer Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krrshivam&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Developer Activity Graph" />
+  <a href="https://github.com/Krrshivam">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krrshivam&theme=tokyonight"
+      width="100%"
+      alt="GitHub Contribution Activity"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krrshivam&theme=tokyonight&utcOffset=5.5"
+    width="49%"
+    alt="GitHub Productive Time"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krrshivam&theme=tokyonight"
+    width="49%"
+    alt="Repository Languages"
+  />
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me
 
