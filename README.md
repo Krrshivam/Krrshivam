@@ -154,7 +154,37 @@ A public-facing real estate platform for property discovery and lead generation.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krrshivam&theme=tokyonight" width="100%" alt="GitHub Contribution Activity" />
 </p>
+---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krrshivam&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krrshivam/cybershivaa/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## ⚡ Developer Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krrshivam&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Developer Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer&animation=fadeIn" width="100%" />
+</p>
+
+<h3 align="center">🚀 Code • Create • Innovate • Repeat</h3>
 ### 🌐 Connect With Me
 
 <p align="center">
